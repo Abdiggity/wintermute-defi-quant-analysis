@@ -1,4 +1,4 @@
-Wintermute DeFi Analysis — Following the Money On-Chain
+Wintermute DeFi Analysis! Following the Money On-Chain
 
 Quant Researcher Internship Assessment 
 
