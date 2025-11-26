@@ -1,6 +1,6 @@
 Wintermute DeFi Analysis — Following the Money On-Chain
 
-Quant Researcher Internship Assessment — Syntagma Labs
+Quant Researcher Internship Assessment 
 
 A data-driven look at how Wintermute trades across DeFi: what they trade, where they do it, and the patterns behind it.
 
